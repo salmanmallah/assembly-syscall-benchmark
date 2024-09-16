@@ -30,7 +30,7 @@ This tool compares the execution times of two assembly programs, one using the `
 
 2. Navigate into the directory:
    ```bash
-   cd syscall-vs-int80-benchmark
+   cd assembly-syscall-benchmark/
    ```
 
 3. Make the script executable:
