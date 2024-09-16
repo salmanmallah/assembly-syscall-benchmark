@@ -40,7 +40,7 @@ This tool compares the execution times of two assembly programs, one using the `
 
 4. Run the tool by providing your assembly files:
    ```bash
-   ./benchmark.sh
+   ./runner.sh.x
    ```
 
 5. Follow the prompts to enter the filenames of your two assembly programs:
