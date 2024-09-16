@@ -25,7 +25,7 @@ This tool compares the execution times of two assembly programs, one using the `
 
 1. Clone this repository:
    ```bash
-   [git clone https://github.com/yourusername/syscall-vs-int80-benchmark.git](https://github.com/salmanmallah/assembly-syscall-benchmark.git)
+   https://github.com/salmanmallah/assembly-syscall-benchmark.git
    ```
 
 2. Navigate into the directory:
