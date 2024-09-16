@@ -60,7 +60,7 @@ For testing two files, e.g., `int80_test.asm` and `syscall_test.asm`, you can do
 1. Place the files in the same directory as the script.
 2. Run the script:
    ```bash
-   ./benchmark.sh
+   ./runner.sh.x
    ```
 
 ## Output
