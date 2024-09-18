@@ -35,7 +35,7 @@ This tool compares the execution times of two assembly programs, one using the `
 
 3. Make the script executable:
    ```bash
-   chmod +x benchmark.sh
+   chmod +x runner.sh.x
    ```
 
 4. Run the tool by providing your assembly files:
