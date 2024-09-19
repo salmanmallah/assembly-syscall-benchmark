@@ -35,12 +35,12 @@ This tool compares the execution times of two assembly programs, one using the `
 
 3. Make the script executable:
    ```bash
-   chmod +x runner.sh.x
+   chmod +x runner.sh
    ```
 
 4. Run the tool by providing your assembly files:
    ```bash
-   ./runner.sh.x
+   ./runner.sh
    ```
 
 5. Follow the prompts to enter the filenames of your two assembly programs:
@@ -60,7 +60,7 @@ For testing two files, e.g., `int80_test.asm` and `syscall_test.asm`, you can do
 1. Place the files in the same directory as the script.
 2. Run the script:
    ```bash
-   ./runner.sh.x
+   ./runner.sh
    ```
 
 ## Output
