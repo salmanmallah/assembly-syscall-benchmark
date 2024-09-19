@@ -8,7 +8,12 @@ This tool compares the execution times of two assembly programs, one using the `
 - Displays the percentage difference in performance between `int 0x80` and `syscall`.
 
 ## Prerequisites
-
+- **update your linux**  
+  to update run this command:
+  ```bash
+  sudo apt update
+  ```
+  
 - **NASM** (Netwide Assembler) installed.  
   You can install it using:
   ```bash
