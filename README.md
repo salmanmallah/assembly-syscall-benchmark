@@ -1,4 +1,4 @@
-# Syscall vs Int 0x80 Benchmark Tool
+# Performance Analysis: Syscall and Int 0x80 in Assembly
 
 This tool compares the execution times of two assembly programs, one using the `int 0x80` system call and the other using `syscall`. It automates the process of assembling, linking, and benchmarking both programs, then outputs the average execution time and the performance difference.
 
