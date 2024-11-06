@@ -1,15 +1,17 @@
 #!/bin/bash
 
 clear
-figlet "Salman Mallah"
+figlet "22 MUET CYS"
 echo "==============================="
-echo "Script Written by: SALMAN MALLAH 22BSCYS021"
-echo "This tool compares the execution times of 'int 0x80' and 'syscall'."
-echo "==============================="
+printf "Script Written by:\n\tSALMAN MALLAH 22BSCYS021\n\tKinza 22BSCYS031"
+printf "\nThis tool compares the execution times of 'int 0x80' and 'syscall'."
+printf "\n==============================="
+printf "\n"
 
 # Ask the user to enter the file names for program1 and program2
 read -p "Enter the filename for program1 (int 0x80, e.g., program1.asm): " program1
 read -p "Enter the filename for program2 (syscall, e.g., program2.asm): " program2
+
 
 # Check if the files exist
 if [ ! -f "$program1" ]; then
