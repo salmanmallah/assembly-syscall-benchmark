@@ -3,7 +3,7 @@
 clear
 figlet "22 MUET CYS"
 echo "==============================="
-printf "Script Written by:\n\tSALMAN MALLAH 22BSCYS021\n\tKinza 22BSCYS031"
+printf "Script Written by:\n\tSALMAN MALLAH\n\tKinza"
 printf "\nThis tool compares the execution times of 'int 0x80' and 'syscall'."
 printf "\n==============================="
 printf "\n"
